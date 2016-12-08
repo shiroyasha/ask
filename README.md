@@ -2,7 +2,7 @@
 
 Ask a Yes/No question in the shell:
 
-``` sh
+``` bash
 $ ask && echo "Yes!"
 Are you sure? [Y/n] y
 Yes!
